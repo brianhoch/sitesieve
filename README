@@ -1,0 +1,13 @@
+Sitesieve
+
+Content inventory is probably the most tedious task in the information architecture process, carrying with it a great deal of busywork. We can focus our IA attention more effectively by automating portions of this process so we can focus our attention on analyzing the inventory rather than generating the initial inventory list.
+
+Sitesieve seeks to do this by automating 3 processes.
+
+* Spider the existing site to identify pages for the inventory
+* Identify the content on those pages, maintaining the semantic information in the page code
+* Perform an initial semantic analysis on the content to identify groupings and commonalities in sections of the content
+
+This idea is described in further detail in the following video. http://www.youtube.com/watch?v=5kFX373z_6I
+
+As the tool is in the early architectural steps, it is yet to be determined whether these services will be provided through a web based set of tools or an application that can be executed on a client computer. (This determination will be made based on what open source tools for spidering, chunking out page content, and performing the semantic analysis are currently available and easily adaptable.)
